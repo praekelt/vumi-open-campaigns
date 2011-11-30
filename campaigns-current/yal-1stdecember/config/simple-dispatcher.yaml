@@ -1,0 +1,3 @@
+route_mappings:
+    httpapi.inbound:
+        - twitter.outbound

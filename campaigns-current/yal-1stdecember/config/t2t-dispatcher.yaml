@@ -1,0 +1,8 @@
+router_class: "vumi.dispatchers.base.TransportToTransportRouter"
+transport_names:
+    - httpapi
+    - twitter
+exposed_names: []
+route_mappings:
+    httpapi:
+        - twitter

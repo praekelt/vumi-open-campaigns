@@ -1,5 +1,8 @@
 transport_name: twitter
 
-username: "1stdecember"
-password: "45erdfcv"
+app_name: "1stdecember"
+consumer_key: "6Vi06y1CeEt6r0nC4pKUXQ"
+consumer_secret: "BLt3a6OGAutdWb7cz4OaoTLjGulY5PhAE4uGA1SbM"
+access_token: "425002905-H05wCZKdu3IOss2qsXWo5qCzPhs6u4r02tDfxFmN"
+access_token_secret: "ft5tzXLET3E1z1f0QRJJttdKrUkosFrCD4dZUXyq0"
 terms: []

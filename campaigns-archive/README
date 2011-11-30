@@ -1,0 +1,12 @@
+Campaigns no longer running go here.
+Archived campaigns should not be updated except to correct errors in archiving.
+Campaigns should be archived in a folder named after the year in which the archiving took place, e.g.
+
+2011/
+  campaign-1/
+  campaign-2/
+  ...
+
+2012/
+  campaign-3/
+  ...

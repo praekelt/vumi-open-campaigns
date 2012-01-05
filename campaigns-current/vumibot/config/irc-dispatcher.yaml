@@ -1,0 +1,10 @@
+transport_names:
+  - irc
+exposed_names:
+  - memo
+  - logger
+router_class: vumi.dispatchers.base.SimpleDispatchRouter
+route_mappings:
+  irc:
+    - memo
+    - logger
